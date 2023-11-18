@@ -99,7 +99,7 @@
     "rollup-plugin-babel": "^4.4.0",
     "rollup-plugin-cleanup": "^3.2.1",
     "sass": "^1.51.0",
-    "tinymce": "^6.0.3",
+    "tinymce": "^6.7.3",
     "tom-select": "^2.0.1",
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0",
